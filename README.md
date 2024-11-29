@@ -4,7 +4,7 @@
 ✨ What I do:
 
 🌱 Supporting healthcare: Support medical activities through AI solutions that enhance decision-making and patient care for better health outcomes.
-🌍 Focus on ethical AI and interdisciplinary solutions to create positive social impact in healthcare and create a more equitable future among populations. 
+💡 Focus on ethical AI and interdisciplinary solutions to create positive social impact in healthcare and create a more equitable future among populations. 
 
 
 
