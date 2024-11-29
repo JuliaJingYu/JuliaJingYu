@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @JuliaJingYu
-- 👀 I’m interested in STEM
-- 🌱 I’m currently working in big data analytics in finance
-- 💞️ I’m looking to collaborate on projects on people analytics, fintech, e-commerce, healthtech etc 
-- 📫 Please email me at jingjun.yu@mail.mcgill.ca
+👋 Hi, I’m Julia 
+🎓 McGill University Graduate in Social Epidemiology & Nutritional Science | 🔬 Health Data Scientist | 💡 AI-Driven Healthcare Innovation | 🌍 Ethics & Social Impact in Technology
+
+✨ What I do:
+
+🌱 Supporting healthcare: Support medical activities through AI solutions that enhance decision-making and patient care for better health outcomes.
+🌍 Focus on ethical AI and interdisciplinary solutions to create positive social impact in healthcare and create a more equitable future among populations. 
+
+
 
 <!---
 JuliaJingYu/JuliaJingYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
