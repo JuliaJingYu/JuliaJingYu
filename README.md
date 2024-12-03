@@ -1,4 +1,4 @@
-👋 Hi, I’m Julia, a Data Analyst 
+👋 Hi, I’m Julia, Data Analyst 
 🎓 McGill University Graduate in Public Health Nutrition Epidemiology Research | 🔬 Health Data Scientist | 💡 AI-Driven Healthcare Innovation | 🌍 Ethics & Social Impact in Technology
 
 ✨ What I do:
