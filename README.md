@@ -1,4 +1,4 @@
-👋 Hi, I’m Julia, Data Analyst 
+👋 Hi, I’m Julia, Data Designer 
 🎓 McGill University Graduate in Applied Sciences (Epidemiology & Public Health) | 🔬 Health Data Scientist | 💡 AI-Driven Healthcare Innovation | 🌍 Ethics & Social Impact in Technology
 
 ✨ What I do:
