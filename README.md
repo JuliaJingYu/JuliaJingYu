@@ -1,11 +1,4 @@
-👋 Hi, I’m Julia, Data Designer 
-🎓 McGill University Graduate in Applied Sciences (Epidemiology & Public Health) | 🔬 Health Data Scientist | 💡 AI-Driven Healthcare Innovation | 🌍 Ethics & Social Impact in Technology
 
-✨ What I do:
-
-🌱 Supporting healthcare: Support medical activities through AI solutions that enhance decision-making and patient care for better health outcomes.
-
-💡 Focus on ethical AI and interdisciplinary solutions to create positive social impact in healthcare and lead to a more equitable future among populations. 
 
 
 
