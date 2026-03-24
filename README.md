@@ -1,6 +1,7 @@
 Hi, I'm Jingjun (Julia)! 👋
 Full Stack Analytics & Data Engineering Specialist
-I bridge the gap between High-Performance Distributed Systems and Sustainable Decision Science. With a background spanning Health Science, Data Science, Insurance, Risk Engineering, and Industrial Ecology, I build data architectures that are as efficient as they are impactful.
+
+I bridge the gap between High-Performance Distributed Systems and Sustainable Decision Science. With a background spanning Health Science, Data Science, Insurance, and Industrial Ecology, I build data architectures that are as efficient as they are impactful.
 
 🛠️ Technical Focus
 Data Engineering: Distributed computing with PySpark, Databricks, and Apache Cassandra.
